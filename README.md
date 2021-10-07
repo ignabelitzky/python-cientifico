@@ -1,2 +1,2 @@
 # python-cientifico
-Codigo utilizado en curto de Python Cientifico dado por FaMAF
+Codigo utilizado en curso de Python Cientifico dado por FaMAF
